@@ -12,13 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>
+<h2>
+  Hello there! I'm Victor
+</h2>
+<p>
 I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. Im the mean time I'm always looking to collaborate on projects with others as collaborations tend to lead to new knowledge! 
-</h3>
+</p>
 
-- <a href="https://www.linkedin.com/in/victor-brambila/"><img src="https://img.shields.io/badge/linkedin%20@victorbrambila-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- <a href="https://www.instagram.com/victor_had_a_braid/?hl=en"><img src="https://img.shields.io/badge/instagram%20@victor_had_a_braid-344E86?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="facebook.com/victor.brambila.7/"><img src="https://img.shields.io/badge/facebook%20@victorbrambila-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<a href="https://www.linkedin.com/in/victor-brambila/"><img src="https://img.shields.io/badge/linkedin%20@victorbrambila-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/victor_had_a_braid/?hl=en"><img src="https://img.shields.io/badge/instagram%20@victor_had_a_braid-344E86?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="facebook.com/victor.brambila.7/"><img src="https://img.shields.io/badge/facebook%20@victorbrambila-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+<h3>🛠 Tech Stack</h3>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d42e2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=2d42e2)
@@ -35,6 +42,8 @@ I'm currently focusing on completing my Full Stack Web Development Certification
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=2d42e2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=2d42e2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=2d42e2)
+
+<h3>💻 Fun Stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vbrambila2&show_icons=true&theme=radical&title_color=2d9ee2&text_color=fff&icon_color=2d9ee2">
 
