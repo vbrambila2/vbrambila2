@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. Im the mean time I'm always looking to collaborate on projects with others as collaborations tend to lead to new knowledge! 
+<h3>
+I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. Im the mean time I'm always looking to collaborate on projects with others as collaborations tend to lead to new knowledge! 
+</h3>
 
 - <a href="https://www.linkedin.com/in/victor-brambila/"><img src="https://img.shields.io/badge/linkedin%20@victorbrambila-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="https://www.instagram.com/victor_had_a_braid/?hl=en"><img src="https://img.shields.io/badge/instagram%20@victor_had_a_braid-344E86?style=for-the-badge&logo=instagram&logoColor=white"/></a>
