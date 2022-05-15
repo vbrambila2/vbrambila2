@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hello there! I'm Victor
 <p>
-I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. Im the mean time I'm always looking to collaborate on projects with others as collaborations tend to lead to new knowledge! 
+I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. 
+My passion is building projects that people will use on a day-to-day basis which is why I love focusing on the user-interface side of projects. Creating something both easy to navigate and simplistic in design is what I aim to do. I believe we as humans are drawn by beauty, so why not make your app just that, a beauty?
 </p>
 
 ---
@@ -47,9 +48,15 @@ I'm currently focusing on completing my Full Stack Web Development Certification
 
 ### 💻 Fun Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vbrambila2&show_icons=true&theme=radical&title_color=FFFFFF&text_color=FFFFFF&icon_color=344E86">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vbrambila2&show_icons=true&custom_title=GitHub Stats&count_private=true&title_color=344E86&text_color=344E86&icon_color=344E86&bg_color=FFFFFF" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&theme=radical&title_color=FFFFFF&text_color=FFFFFF)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&title_color=344E86&text_color=344E86&bg_color=FFFFFF&layout=compact" />
+</a>
+
+---
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vbrambila2" id="counter">
