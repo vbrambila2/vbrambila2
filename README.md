@@ -53,7 +53,7 @@ My passion is building projects that people will use on a day-to-day basis which
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&title_color=344E86&text_color=344E86&bg_color=FFFFFF&layout=compact" />
+  <img align="center" height="195" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&title_color=344E86&text_color=344E86&bg_color=FFFFFF&layout=compact" />
 </a>
 
 ---
