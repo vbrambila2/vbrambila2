@@ -56,6 +56,27 @@ My passion is building projects that people will use on a day-to-day basis which
   &nbsp;
   </p>
   
+  <p> 
+  &nbsp;
+  </p>
+  
+  <p> 
+  &nbsp;
+  </p>
+  
+  <p> 
+  &nbsp;
+  </p>
+  
+  
+  <p> 
+  &nbsp;
+  </p>
+  
+  <p> 
+  &nbsp;
+  </p>
+  
 ---
 
 <br />
