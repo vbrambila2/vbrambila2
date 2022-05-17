@@ -48,9 +48,9 @@ My passion is building projects that people will use on a day-to-day basis which
 
 ### 💻 Fun Stats
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=vbrambila2&show_icons=true&custom_title=GitHub Stats&count_private=true&title_color=344E86&text_color=344E86&icon_color=344E86&bg_color=FFFFFF" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vbrambila2&show_icons=true&custom_title=GitHub Stats&count_private=true&title_color=344E86&text_color=344E86&icon_color=344E86&bg_color=FFFFFF" />
 
-<img align="left" width="48%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&title_color=344E86&text_color=344E86&bg_color=FFFFFF&layout=compact" />
+<img align="left" width="47%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrambila2&title_color=344E86&text_color=344E86&bg_color=FFFFFF&layout=compact" />
 
 <p> 
   &nbsp;
