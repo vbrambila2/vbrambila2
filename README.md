@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hello there! I'm Victor
 <p>
-I'm currently focusing on completing my Full Stack Web Development Certification at Bloom Insitute of Technology and expect to graduate June 2022. 
 My passion is building projects that people will use on a day-to-day basis which is why I love focusing on the user-interface side of projects. Creating something both easy to navigate and simplistic in design is what I aim to do. I believe we as humans are drawn by beauty, so why not make your app just that, a beauty?
 </p>
 
