@@ -43,6 +43,7 @@ My passion is building projects that people will use on a day-to-day basis which
 ![git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=344E86)
 ![github](https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&logoColor=white&labelColor=344E86)
 ![MarkDown](https://img.shields.io/badge/-Markdown-white?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=344E86)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=Python&logoColor=white&labelColor=344E86)
 
 ---
 
