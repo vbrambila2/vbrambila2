@@ -20,7 +20,7 @@ My passion is building projects that people will use on a day-to-day basis which
 
 ---
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Let's connect!
 
 <a href="https://www.linkedin.com/in/victor-brambila/"><img src="https://img.shields.io/badge/linkedin%20@victorbrambila-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/victor_had_a_braid/?hl=en"><img src="https://img.shields.io/badge/instagram%20@victor_had_a_braid-344E86?style=for-the-badge&logo=instagram&logoColor=white"/></a>
