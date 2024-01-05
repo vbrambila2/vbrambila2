@@ -1,6 +1,6 @@
 # Hello! I'm Victor
 <p>
-My passion is building products that people use on a daily basis, which is why I love focusing on the user-interface side of projects. Creating something both easy to navigate and simplistic in design is what I aim to do. I believe we as humans are naturally drawn to beauty, so why not make your app just that, a beauty?
+My passion is building products that people will use on a daily basis, which is why I love focusing on the user-interface side of projects. Creating something both easy to navigate and simplistic in design is what I aim to do. I believe we as humans are naturally drawn to beauty, so why not make your app just that, a beauty?
 </p>
 
 ---
